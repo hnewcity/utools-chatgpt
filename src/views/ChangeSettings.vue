@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="dark:(text-white)">
         <div class="flex items-center">
             <div class="mr-4 text-right w-20">模型选择:</div>
             <el-select v-model="model" placeholder="Select" size="large">
