@@ -1,0 +1,15 @@
+{
+    "main": "index.html",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "gpt",
+            "explain": "search on gpt",
+            "cmds": [
+                "gpt",
+                "chat",
+                "g"
+            ]
+        }
+    ]
+}
