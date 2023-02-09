@@ -1,5 +1,7 @@
 # utools-chatgpt
 
+![example1](https://raw.githubusercontent.com/LiuTianjie/utools-chatgpt/main/src/assets/example1.png)
+![example2](https://raw.githubusercontent.com/LiuTianjie/utools-chatgpt/main/src/assets/example2.png)
 输入 apiKey 即可开始使用基于 openAI 的 gpt-3 进行智能对话。
 
 ## TODOLIST
